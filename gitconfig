@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carlosbeldabustin@gmail.com
+	name = Carlos Belda Bustin
